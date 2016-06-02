@@ -18,6 +18,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # My gems
 gem 'rename'
 gem 'haml-rails'
+gem 'better_errors'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
